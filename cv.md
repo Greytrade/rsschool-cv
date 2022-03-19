@@ -1,5 +1,5 @@
 # **SVETLANA ANDRIANOVA**
-- photo [link](https://resheto.net/images/mater/pozitivnye_kartinki_2.jp)
+!photo [link](https://resheto.net/images/mater/pozitivnye_kartinki_2.jp)
 **************************************************
 ## Contacts
 - Discord: Greytrade
@@ -18,4 +18,4 @@ return $a * $b;
 - Nothing yet, related to JS.
 - Participated in cross-functional projects, related to ORACLE, SAP, 1C implementation and customization.
 ## Projects
-- CV#1. Markdown & Git [link]()
+### CV [link](https://github.com/Greytrade/rsschool-cv/blob/gh-pages/cv.md)
