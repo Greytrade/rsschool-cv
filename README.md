@@ -1,3 +1,3 @@
 # rsschool-cv
-https://Graytrade.github.io/rsschool-cv/cv
-https://Graytrade.github.io/rsschool-cv/
+https://Greytrade.github.io/rsschool-cv/cv
+https://Greytrade.github.io/rsschool-cv/
